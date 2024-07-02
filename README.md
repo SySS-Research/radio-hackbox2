@@ -13,7 +13,7 @@ published in 2017.
 
 - Raspberry Pi
 - [Adafruit 16x2 Character LCD + Keypad for Raspberry Pi](https://learn.adafruit.com/adafruit-16x2-character-lcd-plus-keypad-for-raspberry-pi/)
-- nRF24LU1+ USB radio dongle with flashed [nrf-research-firmware](https://github.com/SySS-Research/keyjector/tree/master/src) originally by the Bastille Threat Research Team and furhter developed by Marc Newlin, e. g.
+- nRF24LU1+ USB radio dongle with flashed [nrf-research-firmware](https://github.com/SySS-Research/keyjector/tree/master/src) originally by the Bastille Threat Research Team and further developed by Marc Newlin, e. g.
 	* [Bitcraze CrazyRadio PA USB dongle](https://www.bitcraze.io/crazyradio-pa/)
 	* Logitech Unifying dongle (model C-U0007, Nordic Semiconductor based)
 - Raspberry Pi power pack or a USB power bank
